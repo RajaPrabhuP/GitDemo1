@@ -6,5 +6,6 @@ public class Main {
 	// write your code
         System.out.println("Raja Prabhu");
         System.out.println("Iniyavan");
+        System.out.println("Thiru");
     }
 }
